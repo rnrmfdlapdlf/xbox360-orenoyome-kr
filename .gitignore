@@ -1,0 +1,9 @@
+bin/
+obj/
+.vs/
+Assets/
+*.user
+*.suo
+*.cache
+*.pdb
+*.zip
